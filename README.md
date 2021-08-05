@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yashcubex... Yashaswi Singh
 - 👀 I’m interested in ... Programming, GameDev
-- 🌱 I’m currently learning ... 5th Class
+- 🌱 I’m currently learning ... Lua
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 
