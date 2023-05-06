@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @yashcubex... Yashaswi Singh
+- 👋 Hi, I’m @yashcubex... Yash
 - 👀 I’m interested in ... Programming, GameDev
-- 🌱 I’m currently learning ... Lua
+- 🌱 I’m currently learning ... C++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
+- 📫 How to reach me ... CqllMeNothing#0527
 
 https://www.youtube.com/channel/UCOM9qThZ-k7QAAFWnCmSeoA 
 
