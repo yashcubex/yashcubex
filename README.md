@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @yashcubex... Yash
-- 👀 I’m interested in ... Programming, GameDev
-- 🌱 I’m currently learning ... C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... CqllMeNothing#0527
+🚀 Aspiring Physicist | Math + CS Explorer |
 
-https://www.youtube.com/channel/UCOM9qThZ-k7QAAFWnCmSeoA 
+Curious about the universe at both quantum and cosmic scales.
+Solving problems, breaking limits, and building the future one line of code and one equation at a time.
 
-https://discord.gg/5m2nsGyUTJ
+📚 Self-learning physics, AI, and pure math | 🧠 Passionate about Olympiads, research, and problem solving.
